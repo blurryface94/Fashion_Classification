@@ -35,5 +35,5 @@ The image has a width and height of 28 pixel which comes up to 784 pixels in tot
 <img width="587" alt="model_classification_report" src="https://user-images.githubusercontent.com/39994111/86512599-d9d7ad00-be46-11ea-851e-45005507b76e.png">
  
  The following image shows the image classification done on the test set
- <img width="831" alt="model_prediction" src="https://user-images.githubusercontent.com/39994111/86512612-efe56d80-be46-11ea-93aa-e6fa73742f77.png">
+<img width="831" alt="model_prediction" src="https://user-images.githubusercontent.com/39994111/86512612-efe56d80-be46-11ea-93aa-e6fa73742f77.png">
 
